@@ -18,3 +18,6 @@ Titanic Full Processes
 8) Titanic ML part 6 - RandomForest / KNN / soft_voting - Randomforest / XGBoost / soft_voting - Randomforest / XGBoost / Nueral Net / Stacking
 
 +) Final Neural Model as h5 format
+
+
+- I found some error on preprocessing the data, specifically handling missing values.
