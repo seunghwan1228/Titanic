@@ -1,4 +1,7 @@
 # Titanic
+
+https://www.kaggle.com/c/titanic
+
 Titanic Full Processes
 * * *
 1) Titanic Analysis
