@@ -16,3 +16,5 @@ Titanic Full Processes
 7) Titanic ML part 5 - Summary of part 1 ~ 4
 
 8) Titanic ML part 6 - RandomForest / KNN / soft_voting - Randomforest / XGBoost / soft_voting - Randomforest / XGBoost / Nueral Net / Stacking
+
++) Final Neural Model as h5 format
